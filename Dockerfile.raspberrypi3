@@ -10,6 +10,7 @@ matchbox-keyboard \
 build-essential \
 cmake \
 libavahi-compat-libdnssd-dev \
+libplist-dev \
 libssl-dev
 
 # disable lxpolkit popup warning
